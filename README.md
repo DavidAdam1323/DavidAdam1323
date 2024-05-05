@@ -9,6 +9,6 @@
 <!-- Title with Motion Effect and Waving Hand -->
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;I'm+David+Adam+Silva,+a+Software+Developer." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+World!+👋🏼;I'm+David+Adam+Silva,+a+Software+Developer." />
   </a>
 </h1>
