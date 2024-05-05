@@ -1,4 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Adam ==================================================================================================================================  Full Stack Software Developer -----------------------------  After dedicating myself to around 16 intense weeks of coding at the School Of Code Bootcamp, I've not only delved into the world of computer languages but also cultivated a deep passion for learning and problem-solving. 💻🔥 I eagerly anticipate forging future collaborations with fellow tech enthusiasts, excited to team up with passionate individuals driven by knowledge and creativity. I am resolute in my goal to make a meaningful impact in people's lives through innovative solutions. Let's connect, learn together, and shape a brighter future through code! 🌟 #CodingPassion #TechCollaboration  * 🌍  I'm based in London - UK * 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app) * ✉️  You can contact me at [davidadamgtr@gmail.com](mailto:davidadamgtr@gmail.com) * 🚀  I'm currently working on [MyApp](http://my-portfolio-project-sigma.vercel.app) * 🧠  I'm learning currently React | Next JS | Tailwind CSS | TypeScript * 🤝  I'm open to collaborating on Interesting Projects. * ⚡  I'm Specialised In Electric/Acoustic Guitar 🎸... I've been playing music for over two decades now!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DavidAdam1323.DavidAdam1323"/>
+
+<h1 align="center">
+ <a href="https://git.io/typing-svg"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+🌎!;"/>
+ </a>
+</h1>
+
+## About Me
+### David Adam
+#### Full Stack Software Developer
+
+After immersing myself in a transformative 16-week coding journey at the School Of Code Bootcamp, I've not only delved into the world of computer languages but also cultivated a deep passion for learning and problem-solving. 💻🔥 Eager to collaborate with tech enthusiasts, I'm driven by knowledge and creativity to make a meaningful impact through innovative solutions. Let's connect, learn together, and shape a brighter future through code! 🌟 
+#CodingPassion #TechCollaboration
+
+---
+
+* 📍 Based in London, UK
+* 💻 Check out my portfolio at [MyWebsite](http://my-portfolio-project-sigma.vercel.app)
+* ✉️ Reach me at [davidadamgtr@gmail.com](mailto:davidadamgtr@gmail.com)
+* 🚀 Currently working on [MyApp](http://my-portfolio-project-sigma.vercel.app)
+* 🌱 Learning React | Next.js | Tailwind CSS | TypeScript
+* 👯 Open to collaborating on Interesting Projects
+* ⚡ Specialized In Electric/Acoustic Guitar 🎸 with over two decades of musical experience
+
 
 ### Skills  
 
