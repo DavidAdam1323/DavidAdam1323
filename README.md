@@ -1,19 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DavidAdam1323.DavidAdam1323"/>
 
-<h1 align="center">
- <a href="https://git.io/typing-svg"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+🌎!;"/>
- </a>
-</h1>
+<h1 align="center"> &lt; Hello, 🌎... /&gt; </h1>
 
-## About Me
-### David Adam
-#### Full Stack Software Developer
+<h3 align="center" >I'm David,<br /> Full Stack Web Developer!</h3>
 
-After immersing myself in a transformative 16-week coding journey at the School Of Code Bootcamp, I've not only delved into the world of computer languages but also cultivated a deep passion for learning and problem-solving. 💻🔥 Eager to collaborate with tech enthusiasts, I'm driven by knowledge and creativity to make a meaningful impact through innovative solutions. Let's connect, learn together, and shape a brighter future through code! 🌟 
-#CodingPassion #TechCollaboration
-
----
+<br />
 
 * 📍 Based in London, UK
 * 💻 Check out my portfolio at [MyWebsite](http://my-portfolio-project-sigma.vercel.app)
