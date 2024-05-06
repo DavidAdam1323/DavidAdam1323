@@ -6,12 +6,28 @@
 
 <br />
 
-* 📍 Based in London, UK
-* 💻 Currently working on [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
-* 🌱 Learning React | Next.js | Tailwind CSS | TypeScript
-* 🚀 Open to collaborate on creative Projects
-* ⚡ Specialized In Electric/Acoustic Guitar 🎸 with over two decades of musical experience
-
+<p float="right"> 
+ <ul>
+  <li>
+ 📍 Based in London, UK
+  </li>
+  <li> 
+ 💻 Currently working on [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
+  </li>
+  <li> 
+ 🌱 Learning React | Next.js | Tailwind CSS | TypeScript
+  </li>
+  <li> 
+ 🚀 Open to collaborate on creative Projects
+  </li>
+  <li> 
+ ⚡ Specialized In Electric/Acoustic Guitar 🎸 with over two decades of musical experience
+  </li>
+ </ul>
+</p>
+ <a align="right">  
+  <img src="https://github.com/DavidAdam1323/DavidAdam1323/raw/main/images/workstation.png" alt="Workstation Image" style="width:250px;margin-left:10px;">
+ </a>
 <br />
  
  
