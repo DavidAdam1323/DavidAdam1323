@@ -10,13 +10,12 @@
 
 <br />
 
-* 🌍  I'm based in London - UK 
-* 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
-* ✉️  You can contact me at [davidadamgtr@gmail.com](mailto:davidadamgtr@gmail.com)
+* 📍  I'm based in London - UK 
+* 🖥️  Please check some of my work at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
 * 🚀  I'm currently working on [MyApp](http://my-portfolio-project-sigma.vercel.app)
-* 🧠  I'm learning currently React | Next JS | Tailwind CSS | TypeScript
-* 🤝  I'm open to collaborating on Interesting Projects.
-* ⚡  I'm Specialised In Electric/Acoustic Guitar 🎸... I've been playing music for over two decades now!
+* 🧠  I'm currently with React | Next JS | Tailwind CSS | TypeScript
+* 🤝  I'm looking forward to forging future collaborations on creative Projects.
+* ⚡  I'm a guitarist 🎸... I've been playing music for over two decades now!
 
 <br />
  
