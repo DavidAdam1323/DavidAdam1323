@@ -33,5 +33,5 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DavidAdam1323"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidAdam1323&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DavidAdam1323's GitHub stats" /></a>
-<a href="http://www.github.com/DavidAdam1323"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAdam1323&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a align="center" href="http://www.github.com/DavidAdam1323"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidAdam1323&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DavidAdam1323's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/DavidAdam1323"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAdam1323&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
