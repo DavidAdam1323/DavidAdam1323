@@ -38,7 +38,7 @@
 <hr />
 
 
-### Badges
+### Badges:
 
 <div align="center">
   <b>My GitHub Stats</b>
