@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="right" src="https://github.com/DavidAdam1323/DavidAdam1323/raw/main/images/workstation.png" alt="Workstation Image" style="width:250px; margin-left:10px; margin-bottom:50px;">
+<img align="right" src="https://github.com/DavidAdam1323/DavidAdam1323/raw/main/images/workstation.png" alt="Workstation Image" style="width:200px; margin-left:10px; margin-bottom:50px;">
 
 <br />
 
