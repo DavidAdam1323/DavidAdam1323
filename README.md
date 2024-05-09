@@ -13,7 +13,7 @@
 * 📍  I'm based in London - UK 
 * 🖥️  Please check some of my work at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
 * 🚀  I'm currently working on [MyApp](http://my-portfolio-project-sigma.vercel.app)
-* 🧠  I'm currently with React | Next JS | Tailwind CSS | TypeScript
+* 🧠  I'm currently improving React | Next JS | Tailwind CSS | TypeScript
 * 🤝  I'm looking forward to forging future collaborations on creative Projects.
 * ⚡  I'm a guitarist 🎸... I've been playing music for over two decades now!
 
