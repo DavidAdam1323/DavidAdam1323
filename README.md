@@ -12,7 +12,7 @@
 
 * 📍  I'm based in London - UK 
 * 🖥️  Please check some of my work at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
-* 🚀  I'm currently working on School of Code Final Project [eslando](https://eslando.vercel.app)
+* 🚀  I'm currently working on School of Code Final Project [eslando](https://eslando.vercel.app/?product=0)
 * 🧠  I'm currently improving React | Next JS | Tailwind CSS | TypeScript
 * 🤝  I'm looking forward to forging future collaborations on creative Projects.
 * ⚡  I'm a guitarist 🎸... I've been playing music for over two decades now!
