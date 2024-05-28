@@ -11,7 +11,7 @@
 <br />
 
 * 📍  I'm based in London - UK 
-* 🖥️  Please check some of my work at [MyPortfolio](http://my-portfolio-project-sigma.vercel.app)
+* 🖥️  Please check some of my work below.
 * 🚀  I'm currently working on School of Code Final Project/MobileApp [eslando](https://eslando.vercel.app/?product=0)
 * 🧠  I'm currently improving React | Next JS | Tailwind CSS | TypeScript
 * 🤝  I'm looking forward to forging future collaborations on creative Projects.
