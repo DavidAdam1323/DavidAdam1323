@@ -10,12 +10,14 @@
 
 <br />
 
-* 📍  I'm based in London - UK 
-* 🖥️  Please check some of my work below.
-* 🚀  I'm currently working on School of Code Final Project/MobileApp [eslando](https://eslando.vercel.app/?product=0)
-* 🧠  I'm currently improving React | Next JS | Tailwind CSS | TypeScript
-* 🤝  I'm looking forward to forging future collaborations on creative Projects.
-* ⚡  I'm a guitarist 🎸... I've been playing music for over two decades now!
+* 📍  Based in London, UK.
+* 🖥️  Take a look at some of my work below.
+* 🎶  Guitarist 🎸 with over two decades of experience in music!
+* 🚀  Actively working on building my portfolio. [DAS.Dev](https://das-dev-project.vercel.app/)
+* 📁  Check out the website for my freelance team [CDR-Devs](cdrdevs.tech)
+* 🏆  School of Code "Graduate" - Final Project/MobileApp [eslando](https://eslando.vercel.app/?product=0)
+* 🧠  Currently enhancing my skills in HTML, CSS, JavaScript and Python.
+* 🤝  I'm excited to collaborate on future creative projects.
 
 
 <br />
